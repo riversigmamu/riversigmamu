@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Malu
 
-### Machine Learning Engineer
+### Medical Student and Machine Learning Engineer enthusiast 
 
-> I work at the intersection of **Data Engineering**, **Data Science**, and **Machine Learning**, with a specialized focus on **Life Sciences and Health**.  
-> I build robust data pipelines, analytical workflows, and ML systems that transform complex, high-dimensional data into **reproducible and actionable insights**.
+> I am interested in the intersection of **Data Engineering**, **Data Science**, and **Machine Learning**, with a specialized focus on **Life Sciences and Health**.  
+> To build robust data pipelines, analytical workflows, and ML systems that transform complex, high-dimensional data into **reproducible and actionable insights**.
 
 ---
 
