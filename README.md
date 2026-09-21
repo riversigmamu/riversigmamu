@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm Malu
 
-### Medical Student and Machine Learning Engineer enthusiast 
+### Medical Student and Machine Learning Engineer Enthusiast 
 
 > I am interested in the intersection of **Data Engineering**, **Data Science**, and **Machine Learning**, with a specialized focus on **Life Sciences and Health**.  
 
 ---
 
-## 🎯 My Focus & Workflow
+## 🎯 My Focus 
 
-I am interested in building reproducible, scalable, and production-oriented systems tailored for life science, biomedical, and health data.
+To build reproducible, scalable, production-ready systems for life science, biomedical, and health data.
 
 
 <img width="725" height="166" alt="image" src="https://github.com/user-attachments/assets/df25f24e-e2f7-47e0-a7dd-2e0c3a0dcba2" />
@@ -52,5 +52,5 @@ I am interested in building reproducible, scalable, and production-oriented syst
 
 I'm always open to discussing **reproducible computational research**, **health-tech innovations**
 
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/riversigmamu)
+- 💼 **LinkedIn**: [linkedin.com/in/riversigmamu](https://linkedin.com/in/riversigmamu)
 
