@@ -3,7 +3,6 @@
 ### Medical Student and Machine Learning Engineer enthusiast 
 
 > I am interested in the intersection of **Data Engineering**, **Data Science**, and **Machine Learning**, with a specialized focus on **Life Sciences and Health**.  
-> To build robust data pipelines, analytical workflows, and ML systems that transform complex, high-dimensional data into **reproducible and actionable insights**.
 
 ---
 
@@ -13,7 +12,6 @@ I am interested in building reproducible, scalable, and production-oriented syst
 
 
 <img width="725" height="166" alt="image" src="https://github.com/user-attachments/assets/df25f24e-e2f7-47e0-a7dd-2e0c3a0dcba2" />
-
 
 
 ---
