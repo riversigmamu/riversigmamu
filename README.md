@@ -2,7 +2,7 @@
 
 ### Medical Student and Machine Learning Engineer Enthusiast 
 
-> I am interested in the intersection of **Data Engineering**, **Data Science**, and **Machine Learning**, with a specialized focus on **Life Sciences and Health**.  
+>I am a biologist and medical student working at the intersection of microbiology, bioinformatics, and clinical medicine. I am interested in using data science to study how microorganisms and the human microbiome affect health and disease, aiming to bridge the gap between computational research and patient care. Ultimately, my goal is to advance health-tech and shape the future of microbiome-driven precision medicine.  
 
 ---
 
