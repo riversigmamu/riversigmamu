@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Malu
+# 👋 Hi there, I'm Mσlμ
 
 ### Medical Student and Machine Learning Engineer Enthusiast 
 
